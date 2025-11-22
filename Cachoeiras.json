@@ -1,0 +1,162 @@
+[
+    {
+        "cachoeira": "Cachoeira do Buracão",
+        "cidade": "Ibicoara, BA",
+        "descrição": "Localizada na Chapada Diamantina (BA), é famosa por seu cânion imponente.",
+        "link": "https://www.google.com/search?q=Cachoeira+do+Buracão",
+        "imagem": "imagens/cachoeiras/cachoeira-do-buracao.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Cachoeira+do+Buracão"
+    },
+    {
+        "cachoeira": "Cachoeira Santa Bárbara",
+        "cidade": "Cavalcante, GO",
+        "descrição": "Na Chapada dos Veadeiros (GO), conhecida por suas águas incrivelmente azuis.",
+        "link": "https://www.google.com/search?q=Cachoeira+Santa+Bárbara+Chapada+dos+Veadeiros",
+        "imagem": "imagens/cachoeiras/cachoeira-santa-barbara.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Cachoeira+Santa+Bárbara"
+    },
+    {
+        "cachoeira": "Cataratas do Iguaçu",
+        "cidade": "Foz do Iguaçu, PR",
+        "descrição": "Uma das maiores cataratas do mundo, na fronteira entre Brasil e Argentina (PR).",
+        "link": "https://www.google.com/search?q=Cataratas+do+Iguaçu",
+        "imagem": "imagens/cachoeiras/cataratas-do-iguacu.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Cataratas+do+Iguaçu"
+    },
+    {
+        "cachoeira": "Cachoeira da Fumaça",
+        "cidade": "Palmeiras, BA",
+        "descrição": "Na Chapada Diamantina (BA), uma das mais altas do Brasil, com uma queda impressionante.",
+        "link": "https://www.google.com/search?q=Cachoeira+da+Fumaça+Chapada+Diamantina",
+        "imagem": "imagens/cachoeiras/cachoeira-da-fumaca.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Cachoeira+da+Fumaça"
+    },
+    {
+        "cachoeira": "Cachoeira do Tabuleiro",
+        "cidade": "Conceição do Mato Dentro, MG",
+        "descrição": "Em Minas Gerais, é a cachoeira mais alta do estado e a terceira do Brasil.",
+        "link": "https://www.google.com/search?q=Cachoeira+do+Tabuleiro",
+        "imagem": "imagens/cachoeiras/cachoeira-do-tabuleiro.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Cachoeira+do+Tabuleiro"
+    },
+    {
+        "cachoeira": "Cachoeira Casca d'Anta",
+        "cidade": "São Roque de Minas, MG",
+        "descrição": "A primeira grande queda do Rio São Francisco, no Parque Nacional da Serra da Canastra (MG).",
+        "link": "https://www.google.com/search?q=Cachoeira+Casca+d'Anta",
+        "imagem": "imagens/cachoeiras/cachoeira-casca-danta.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Cachoeira+Casca+d'Anta"
+    },
+    {
+        "cachoeira": "Cachoeira do Formiga",
+        "cidade": "Mateiros, TO",
+        "descrição": "No Jalapão (TO), uma pequena queda d'água que forma uma piscina de águas verde-esmeralda.",
+        "link": "https://www.google.com/search?q=Cachoeira+do+Formiga+Jalapão",
+        "imagem": "imagens/cachoeiras/cachoeira-do-formiga.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Cachoeira+do+Formiga"
+    },
+    {
+        "cachoeira": "Salto do Rio Preto",
+        "cidade": "Alto Paraíso de Goiás, GO",
+        "descrição": "Uma das principais atrações da Chapada dos Veadeiros (GO), com uma queda de 120 metros.",
+        "link": "https://www.google.com/search?q=Salto+do+Rio+Preto+Chapada+dos+Veadeiros",
+        "imagem": "imagens/cachoeiras/salto-do-rio-preto.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Salto+do+Rio+Preto"
+    },
+    {
+        "cachoeira": "Cachoeira do El Dorado",
+        "cidade": "Barcelos, AM",
+        "descrição": "Localizada no Amazonas, é considerada a cachoeira mais alta do Brasil.",
+        "link": "https://www.google.com/search?q=Cachoeira+do+El+Dorado+Amazonas",
+        "imagem": "imagens/cachoeiras/cachoeira-do-el-dorado.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Cachoeira+do+El+Dorado"
+    },
+    {
+        "cachoeira": "Cachoeiras do Complexo do Prata",
+        "cidade": "Cavalcante, GO",
+        "descrição": "Um circuito de várias quedas d'água na Chapada dos Veadeiros (GO).",
+        "link": "https://www.google.com/search?q=Cachoeiras+do+Complexo+do+Prata",
+        "imagem": "imagens/cachoeiras/cachoeiras-do-complexo-do-prata.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Cachoeiras+do+Complexo+do+Prata"
+    },
+    {
+        "cachoeira": "Cachoeira Véu da Noiva",
+        "cidade": "Chapada dos Guimarães, MT",
+        "descrição": "Um dos cartões-postais da Chapada dos Guimarães, com uma queda de 86 metros que forma um poço refrescante.",
+        "link": "https://www.google.com/search?q=Cachoeira+Véu+da+Noiva+Chapada+dos+Guimarães",
+        "imagem": "imagens/cachoeiras/cachoeira-veu-da-noiva-mt.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Cachoeira+Véu+da+Noiva+Chapada+dos+Guimarães"
+    },
+    {
+        "cachoeira": "Cachoeira do Caracol",
+        "cidade": "Canela, RS",
+        "descrição": "Localizada no Parque do Caracol, na Serra Gaúcha, possui uma queda de 131 metros e pode ser vista de um mirante ou teleférico.",
+        "link": "https://www.google.com/search?q=Cachoeira+do+Caracol",
+        "imagem": "imagens/cachoeiras/cachoeira-do-caracol.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Cachoeira+do+Caracol"
+    },
+    {
+        "cachoeira": "Cachoeira do Saco Bravo",
+        "cidade": "Paraty, RJ",
+        "descrição": "Uma cachoeira única que deságua diretamente no mar, formando uma piscina natural de água doce na praia.",
+        "link": "https://www.google.com/search?q=Cachoeira+do+Saco+Bravo",
+        "imagem": "imagens/cachoeiras/cachoeira-do-saco-bravo.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Cachoeira+do+Saco+Bravo"
+    },
+    {
+        "cachoeira": "Cachoeira da Velha",
+        "cidade": "Mateiros, TO",
+        "descrição": "A maior cachoeira do Jalapão, com uma imensa queda em formato de ferradura que impressiona pela força das águas.",
+        "link": "https://www.google.com/search?q=Cachoeira+da+Velha+Jalapão",
+        "imagem": "imagens/cachoeiras/cachoeira-da-velha.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Cachoeira+da+Velha+Jalapão"
+    },
+    {
+        "cachoeira": "Cachoeira do Gato",
+        "cidade": "Ilhabela, SP",
+        "descrição": "Uma das mais belas de Ilhabela, acessível por trilha a partir da praia de Castelhanos, com uma queda refrescante em meio à mata.",
+        "link": "https://www.google.com/search?q=Cachoeira+do+Gato+Ilhabela",
+        "imagem": "imagens/cachoeiras/cachoeira-do-gato.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Cachoeira+do+Gato+Ilhabela"
+    },
+    {
+        "cachoeira": "Cachoeira do Riachinho",
+        "cidade": "Vale do Capão, BA",
+        "descrição": "Com um poço delicioso para banho e fácil acesso, é um ponto de relaxamento famoso na Chapada Diamantina.",
+        "link": "https://www.google.com/search?q=Cachoeira+do+Riachinho+Capão",
+        "imagem": "imagens/cachoeiras/cachoeira-do-riachinho.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Cachoeira+do+Riachinho+Vale+do+Capão"
+    },
+    {
+        "cachoeira": "Cachoeira Loquinhas",
+        "cidade": "Alto Paraíso de Goiás, GO",
+        "descrição": "Um circuito de poços e pequenas quedas de águas cristalinas e esverdeadas, ideal para um banho tranquilo na Chapada dos Veadeiros.",
+        "link": "https://www.google.com/search?q=Cachoeira+Loquinhas",
+        "imagem": "imagens/cachoeiras/cachoeira-loquinhas.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Cachoeira+Loquinhas"
+    },
+    {
+        "cachoeira": "Cachoeira do Avencal",
+        "cidade": "Urubici, SC",
+        "descrição": "Uma impressionante queda de 100 metros de altura em um paredão de basalto, com mirantes e atividades de aventura no entorno.",
+        "link": "https://www.google.com/search?q=Cachoeira+do+Avencal",
+        "imagem": "imagens/cachoeiras/cachoeira-do-avencal.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Cachoeira+do+Avencal"
+    },
+    {
+        "cachoeira": "Cachoeira do Fundão",
+        "cidade": "Serra do Cipó, MG",
+        "descrição": "Uma das mais bonitas da Serra do Cipó, com uma grande queda e um poço perfeito para nadar, acessível por uma trilha cênica.",
+        "link": "https://www.google.com/search?q=Cachoeira+do+Fundão+Serra+do+Cipó",
+        "imagem": "imagens/cachoeiras/cachoeira-do-fundao.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Cachoeira+do+Fundão+Serra+do+Cipó"
+    },
+    {
+        "cachoeira": "Cachoeira da Pedra Furada",
+        "cidade": "Presidente Figueiredo, AM",
+        "descrição": "Uma bela cachoeira na 'Terra das Cachoeiras', próxima a Manaus, que se destaca pela rocha vazada por onde a água passa.",
+        "link": "https://www.google.com/search?q=Cachoeira+da+Pedra+Furada+Presidente+Figueiredo",
+        "imagem": "imagens/cachoeiras/cachoeira-pedra-furada.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Cachoeira+da+Pedra+Furada+Presidente+Figueiredo"
+    }
+]

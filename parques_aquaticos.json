@@ -1,0 +1,162 @@
+[
+    {
+        "parque_aquatico": "Thermas dos Laranjais",
+        "cidade": "Olímpia, SP",
+        "descrição": "O parque aquático mais visitado da América Latina, com mais de 55 atrações de águas quentes para todas as idades.",
+        "link": "https://www.google.com/search?q=Thermas+dos+Laranjais",
+        "imagem": "imagens/parques_aquaticos/thermas-laranjais.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Thermas+dos+Laranjais"
+    },
+    {
+        "parque_aquatico": "Hot Park",
+        "cidade": "Rio Quente, GO",
+        "descrição": "Localizado em uma das maiores estâncias hidrotermais do mundo, com águas naturalmente quentes, praia artificial e toboáguas.",
+        "link": "https://www.google.com/search?q=Hot+Park+Rio+Quente",
+        "imagem": "imagens/parques_aquaticos/hot-park.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Hot+Park+Rio+Quente"
+    },
+    {
+        "parque_aquatico": "Beach Park",
+        "cidade": "Aquiraz, CE",
+        "descrição": "Famoso pelo Insano, um dos toboáguas mais altos do mundo, este parque fica à beira-mar e tem atrações para toda a família.",
+        "link": "https://www.google.com/search?q=Beach+Park",
+        "imagem": "imagens/parques_aquaticos/beach-park.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Beach+Park"
+    },
+    {
+        "parque_aquatico": "Wet'n Wild",
+        "cidade": "Itupeva, SP",
+        "descrição": "Um dos parques aquáticos mais famosos de São Paulo, com atrações radicais e áreas relaxantes para um dia de muita diversão.",
+        "link": "https://www.google.com/search?q=Wet%27n+Wild+S%C3%A3o+Paulo",
+        "imagem": "imagens/parques_aquaticos/wetn-wild.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Wet'n+Wild+São+Paulo"
+    },
+    {
+        "parque_aquatico": "Arraial d'Ajuda Eco Parque",
+        "cidade": "Arraial d'Ajuda, BA",
+        "descrição": "Integrado à Mata Atlântica e de frente para o mar, oferece toboáguas emocionantes e uma bela piscina de ondas.",
+        "link": "https://www.google.com/search?q=Arraial+d%27Ajuda+Eco+Parque",
+        "imagem": "imagens/parques_aquaticos/arraial-eco-parque.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Arraial+d'Ajuda+Eco+Parque"
+    },
+    {
+        "parque_aquatico": "diRoma Acqua Park",
+        "cidade": "Caldas Novas, GO",
+        "descrição": "Com temática romana, este parque de águas termais tem toboáguas, piscinas, saunas e o maior navio de brinquedo do Brasil.",
+        "link": "https://www.google.com/search?q=diRoma+Acqua+Park",
+        "imagem": "imagens/parques_aquaticos/diroma-acqua-park.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=diRoma+Acqua+Park"
+    },
+    {
+        "parque_aquatico": "Magic City",
+        "cidade": "Suzano, SP",
+        "descrição": "Complexo de lazer que une parque aquático com piscinas aquecidas, toboáguas, e uma pousada em meio à Mata Atlântica.",
+        "link": "https://www.google.com/search?q=Magic+City",
+        "imagem": "imagens/parques_aquaticos/magic-city.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Magic+City+Suzano"
+    },
+    {
+        "parque_aquatico": "Aldeia das Águas",
+        "cidade": "Barra do Piraí, RJ",
+        "descrição": "Lar do Kilimanjaro, o toboágua mais alto do mundo (recorde anterior), com um grande complexo de piscinas e hotelaria.",
+        "link": "https://www.google.com/search?q=Aldeia+das+%C3%81guas+Park+Resort",
+        "imagem": "imagens/parques_aquaticos/aldeia-das-aguas.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Aldeia+das+Águas+Park+Resort"
+    },
+    {
+        "parque_aquatico": "Acqua Lokos",
+        "cidade": "Capão da Canoa, RS",
+        "descrição": "Um parque que funciona o ano todo, com áreas de piscinas no verão e um parque de diversões coberto no inverno.",
+        "link": "https://www.google.com/search?q=Acqua+Lokos",
+        "imagem": "imagens/parques_aquaticos/acqua-lokos.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Acqua+Lokos"
+    },
+    {
+        "parque_aquatico": "Thermas Water Park",
+        "cidade": "São Pedro, SP",
+        "descrição": "Com uma das maiores piscinas de ondas do estado de SP e um parque infantil gigante, é diversão garantida para a família.",
+        "link": "https://www.google.com/search?q=Thermas+Water+Park",
+        "imagem": "imagens/parques_aquaticos/thermas-water-park.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Thermas+Water+Park+São+Pedro"
+    },
+    {
+        "parque_aquatico": "Hot Beach Olímpia",
+        "cidade": "Olímpia, SP",
+        "descrição": "Com águas quentes naturais, praia artificial com ondas e atrações para todas as idades, em um ambiente paradisíaco.",
+        "link": "https://www.google.com/search?q=Hot+Beach+Olímpia",
+        "imagem": "imagens/parques_aquaticos/hot-beach-olimpia.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Hot+Beach+Olímpia"
+    },
+    {
+        "parque_aquatico": "Rio Water Planet",
+        "cidade": "Rio de Janeiro, RJ",
+        "descrição": "Um dos maiores parques aquáticos da América Latina, com dezenas de toboáguas, rio lento e piscina de ondas.",
+        "link": "https://www.google.com/search?q=Rio+Water+Planet",
+        "imagem": "imagens/parques_aquaticos/rio-water-planet.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Rio+Water+Planet"
+    },
+    {
+        "parque_aquatico": "Parque Aquático Cascanéia",
+        "cidade": "Gaspar, SC",
+        "descrição": "Considerado um dos melhores de Santa Catarina, oferece toboáguas radicais e uma grande área de diversão para a família.",
+        "link": "https://www.google.com/search?q=Parque+Aquático+Cascaneia",
+        "imagem": "imagens/parques_aquaticos/cascaneia.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Parque+Aquático+Cascaneia"
+    },
+    {
+        "parque_aquatico": "Ma-noa Park",
+        "cidade": "Maxaranguape, RN",
+        "descrição": "Localizado à beira-mar, é um dos principais pontos turísticos do RN, com toboáguas, rio com correnteza e piscinas.",
+        "link": "https://www.google.com/search?q=Ma-noa+Park",
+        "imagem": "imagens/parques_aquaticos/ma-noa-park.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Ma-noa+Park"
+    },
+    {
+        "parque_aquatico": "Parque Aquático Thermas da Mata",
+        "cidade": "Cotia, SP",
+        "descrição": "Em meio à natureza, oferece piscinas de águas quentes, toboáguas e uma praia artificial com piscina de ondas.",
+        "link": "https://www.google.com/search?q=Parque+Aquático+Thermas+da+Mata",
+        "imagem": "imagens/parques_aquaticos/thermas-da-mata.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Parque+Aquático+Thermas+da+Mata"
+    },
+    {
+        "parque_aquatico": "Veneza Water Park",
+        "cidade": "Paulista, PE",
+        "descrição": "Um dos maiores parques aquáticos do Nordeste, com uma torre de toboáguas de 30 metros e a maior piscina de ondas do Brasil.",
+        "link": "https://www.google.com/search?q=Veneza+Water+Park",
+        "imagem": "imagens/parques_aquaticos/veneza-water-park.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Veneza+Water+Park"
+    },
+    {
+        "parque_aquatico": "Lagoa Termas Parque",
+        "cidade": "Caldas Novas, GO",
+        "descrição": "Tradicional parque de Caldas Novas, com águas termais, toboáguas, e um ambiente familiar e tranquilo.",
+        "link": "https://www.google.com/search?q=Lagoa+Termas+Parque",
+        "imagem": "imagens/parques_aquaticos/lagoa-termas-parque.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Lagoa+Termas+Parque"
+    },
+    {
+        "parque_aquatico": "Itaipuland",
+        "cidade": "Itaipulândia, PR",
+        "descrição": "Um grande parque de águas termais às margens do Lago de Itaipu, com uma das maiores praias artificiais do país.",
+        "link": "https://www.google.com/search?q=Itaipuland",
+        "imagem": "imagens/parques_aquaticos/itaipuland.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Itaipuland"
+    },
+    {
+        "parque_aquatico": "Águas Correntes Park",
+        "cidade": "Brasília, DF",
+        "descrição": "Um refúgio natural próximo a Brasília, com piscinas de água corrente natural, cachoeiras e trilhas.",
+        "link": "https://www.google.com/search?q=Águas+Correntes+Park",
+        "imagem": "imagens/parques_aquaticos/aguas-correntes-park.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Águas+Correntes+Park"
+    },
+    {
+        "parque_aquatico": "Valparaíso Acqua Park",
+        "cidade": "Paço do Lumiar, MA",
+        "descrição": "O maior parque aquático do Maranhão, oferecendo um complexo de lazer com toboáguas radicais e atrações infantis.",
+        "link": "https://www.google.com/search?q=Valparaíso+Acqua+Park",
+        "imagem": "imagens/parques_aquaticos/valparaiso-acqua-park.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Valparaíso+Acqua+Park"
+    }
+]

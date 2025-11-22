@@ -1,0 +1,259 @@
+[{
+    "praia":"Praia de coroa vermelha",
+    "cidade": "Santa Cruz Cabrália, BA",
+    "descrição":"Mergulhe na história do Brasil nesta praia de águas calmas, marco da primeira missa no país. Ideal para famílias e rica em artesanato indígena.",
+    "link":"https://www.google.com/search?q=praia+de+coroa+vermelha&oq=praia+de+coroa&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg5MgcIAhAuGIAEMgcIAxAAGIAEMgcIBBAAGIAE0gEINjY4MGowajeoAgiwAgHxBQK-Qp1P1XG1&sourceid=chrome&ie=UTF-8",
+    "imagem": "imagens/praias/praia-de-coroa-vermelha.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+de+Coroa+Vermelha"
+},
+{
+    "praia":"Ilhabela",
+    "cidade": "Ilhabela, SP",
+    "descrição":"A capital da vela! Um arquipélago com mais de 40 praias, cachoeiras deslumbrantes e trilhas em meio à Mata Atlântica. Aventura e beleza em um só lugar.",
+    "link":"https://www.google.com/search?q=praia+de+ilhabela&sca_esv=16a5b3c49c9a2e73&sxsrf=AE3TifOu4Ir_D0ukFhwTzpV7NATWM5XbcA%3A1763779259698&ei=uyIhafyrKr7Y1sQPwdv06AE&ved=0ahUKEwi89fHh3YSRAxU-rJUCHcEtHR0Q4dUDCBE&uact=5&oq=praia+de+ilhabela&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXByYWlhIGRlIGlsaGFiZWxhMgUQABiABDIGEAAYBxgeMgYQABgHGB4yBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESLQLUMsEWMsEcAF4AZABAJgBsgGgAbIBqgEDMC4xuAEDyAEA-AEBmAICoAKZAsICChAAGLADGNYEGEfCAg0QABiABBiwAxhDGIoFwgIOEAAYsAMY5AIY1gTYAQHCAhMQLhiABBiwAxhDGMgDGIoF2AEBwgIZEC4YgAQYsAMY0QMYQxjHARjIAxiKBdgBAZgDAIgGAZAGELoGBggBEAEYCZIHBTEuMC4xoAeyBbIHAzItMbgH2wHCBwU0LTEuMcgHWw&sclient=gws-wiz-serp",
+    "imagem": "imagens/praias/ilhabela.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Ilhabela"
+}
+,
+{
+    "praia": "Praia do Sancho",
+    "cidade": "Fernando de Noronha, PE",
+    "descrição": "Localizada em Fernando de Noronha, é frequentemente eleita a praia mais bonita do mundo.",
+    "link": "https://www.google.com/search?q=Praia+do+Sancho",
+    "imagem": "imagens/praias/praia-do-sancho.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+do+Sancho"
+},
+{
+    "praia": "Praia de Lopes Mendes",
+    "cidade": "Ilha Grande, RJ",
+    "descrição": "Uma praia paradisíaca em Ilha Grande, Rio de Janeiro, com areia branca e fina.",
+    "link": "https://www.google.com/search?q=Praia+de+Lopes+Mendes",
+    "imagem": "imagens/praias/praia-de-lopes-mendes.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+de+Lopes+Mendes"
+},
+{
+    "praia": "Praia do Espelho",
+    "cidade": "Porto Seguro, BA",
+    "descrição": "Situada na Bahia, é famosa por suas piscinas naturais e falésias coloridas.",
+    "link": "https://www.google.com/search?q=Praia+do+Espelho",
+    "imagem": "imagens/praias/praia-do-espelho.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+do+Espelho"
+},
+{
+    "praia": "Praia da Pipa",
+    "cidade": "Tibau do Sul, RN",
+    "descrição": "No Rio Grande do Norte, conhecida pelas falésias e pela presença de golfinhos.",
+    "link": "https://www.google.com/search?q=Praia+da+Pipa",
+    "imagem": "imagens/praias/praia-da-pipa.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+da+Pipa"
+},
+{
+    "praia": "Praia dos Carneiros",
+    "cidade": "Tamandaré, PE",
+    "descrição": "Em Pernambuco, com sua icônica igrejinha à beira-mar e águas calmas.",
+    "link": "https://www.google.com/search?q=Praia+dos+Carneiros",
+    "imagem": "imagens/praias/praia-dos-carneiros.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+dos+Carneiros"
+},
+{
+    "praia": "Jericoacoara",
+    "cidade": "Jijoca de Jericoacoara, CE",
+    "descrição": "Uma vila e praia no Ceará, famosa por suas dunas, lagoas e ventos fortes.",
+    "link": "https://www.google.com/search?q=Jericoacoara",
+    "imagem": "imagens/praias/jericoacoara.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Jericoacoara"
+},
+{
+    "praia": "Maragogi",
+    "cidade": "Maragogi, AL",
+    "descrição": "Conhecida como o 'Caribe Brasileiro' em Alagoas, devido às suas piscinas naturais (Galés).",
+    "link": "https://www.google.com/search?q=Maragogi",
+    "imagem": "imagens/praias/maragogi.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Maragogi"
+},
+{
+    "praia": "Praia do Rosa",
+    "cidade": "Imbituba, SC",
+    "descrição": "Em Santa Catarina, um destino popular para surf e observação de baleias.",
+    "link": "https://www.google.com/search?q=Praia+do+Rosa",
+    "imagem": "imagens/praias/praia-do-rosa.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+do+Rosa"
+},
+{
+    "praia": "Arraial do Cabo",
+    "cidade": "Arraial do Cabo, RJ",
+    "descrição": "No Rio de Janeiro, famoso pelo mar de cor azul-turquesa e areias brancas.",
+    "link": "https://www.google.com/search?q=Arraial+do+Cabo",
+    "imagem": "imagens/praias/arraial-do-cabo.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Arraial+do+Cabo"
+},
+{
+    "praia": "Taipu de Fora",
+    "cidade": "Maraú, BA",
+    "descrição": "Na Península de Maraú (Bahia), com imensas piscinas naturais na maré baixa.",
+    "link": "https://www.google.com/search?q=Taipu+de+Fora",
+    "imagem": "imagens/praias/taipu-de-fora.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Taipu+de+Fora"
+},
+{
+    "praia": "Praia do Forno",
+    "cidade": "Arraial do Cabo, RJ",
+    "descrição": "Uma pequena e bela praia em Arraial do Cabo (RJ), acessível por trilha ou barco.",
+    "link": "https://www.google.com/search?q=Praia+do+Forno+Arraial+do+Cabo",
+    "imagem": "imagens/praias/praia-do-forno.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+do+Forno+Arraial+do+Cabo"
+},
+{
+    "praia": "Quarta Praia",
+    "cidade": "Cairu, BA",
+    "descrição": "Em Morro de São Paulo (Bahia), é extensa e tranquila, com piscinas naturais.",
+    "link": "https://www.google.com/search?q=Quarta+Praia+Morro+de+São+Paulo",
+    "imagem": "imagens/praias/quarta-praia.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Quarta+Praia+Morro+de+São+Paulo"
+},
+{
+    "praia": "Praia do Madeiro",
+    "cidade": "Tibau do Sul, RN",
+    "descrição": "Próxima à Praia da Pipa (RN), ideal para nadar com golfinhos.",
+    "link": "https://www.google.com/search?q=Praia+do+Madeiro",
+    "imagem": "imagens/praias/praia-do-madeiro.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+do+Madeiro"
+},
+{
+    "praia": "Praia de Antunes",
+    "cidade": "Maragogi, AL",
+    "descrição": "Parte da Costa dos Corais em Maragogi (AL), com seu famoso coqueiral.",
+    "link": "https://www.google.com/search?q=Praia+de+Antunes",
+    "imagem": "imagens/praias/praia-de-antunes.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+de+Antunes"
+},
+{
+    "praia": "Baía dos Porcos",
+    "cidade": "Fernando de Noronha, PE",
+    "descrição": "Outra joia de Fernando de Noronha (PE), com vista para o Morro Dois Irmãos.",
+    "link": "https://www.google.com/search?q=Baía+dos+Porcos",
+    "imagem": "imagens/praias/baia-dos-porcos.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Baía+dos+Porcos"
+},
+{
+    "praia": "Praia do Farol",
+    "cidade": "Arraial do Cabo, RJ",
+    "descrição": "Em Arraial do Cabo (RJ), uma praia de acesso controlado pela Marinha, de beleza ímpar.",
+    "link": "https://www.google.com/search?q=Praia+do+Farol+Arraial+do+Cabo",
+    "imagem": "imagens/praias/praia-do-farol.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+do+Farol+Arraial+do+Cabo"
+},
+{
+    "praia": "Praia de Lagoinha do Leste",
+    "cidade": "Florianópolis, SC",
+    "descrição": "Uma praia selvagem em Florianópolis (SC), acessível apenas por trilha ou barco.",
+    "link": "https://www.google.com/search?q=Praia+de+Lagoinha+do+Leste",
+    "imagem": "imagens/praias/praia-de-lagoinha-do-leste.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+de+Lagoinha+do+Leste"
+},
+{
+    "praia": "Praia do Bonete",
+    "cidade": "Ilhabela, SP",
+    "descrição": "Localizada em Ilhabela (SP), é uma comunidade tradicional caiçara e paraíso do surfe.",
+    "link": "https://www.google.com/search?q=Praia+do+Bonete+Ilhabela",
+    "imagem": "imagens/praias/praia-do-bonete.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+do+Bonete+Ilhabela"
+},
+{
+    "praia": "Praia de Galinhos",
+    "cidade": "Galinhos, RN",
+    "descrição": "Uma península isolada no Rio Grande do Norte, com paisagens de dunas, salinas e mangues.",
+    "link": "https://www.google.com/search?q=Praia+de+Galinhos",
+    "imagem": "imagens/praias/praia-de-galinhos.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+de+Galinhos"
+},
+{
+    "praia": "Alter do Chão",
+    "cidade": "Santarém, PA",
+    "descrição": "Conhecida como o 'Caribe Amazônico' no Pará, com praias de rio que surgem na seca.",
+    "link": "https://www.google.com/search?q=Alter+do+Chão",
+    "imagem": "imagens/praias/alter-do-chao.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Alter+do+Chão"
+}
+,
+{
+    "praia": "Praia do Patacho",
+    "cidade": "Porto de Pedras, AL",
+    "descrição": "Um refúgio de tranquilidade na Rota Ecológica dos Milagres, com coqueiros, piscinas naturais e uma longa faixa de areia deserta.",
+    "link": "https://www.google.com/search?q=Praia+do+Patacho",
+    "imagem": "imagens/praias/praia-do-patacho.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+do+Patacho"
+},
+{
+    "praia": "Praia da Ferrugem",
+    "cidade": "Garopaba, SC",
+    "descrição": "Famosa por suas ondas perfeitas para o surfe e pela agitada vida noturna no verão, com uma beleza natural que atrai a todos.",
+    "link": "https://www.google.com/search?q=Praia+da+Ferrugem",
+    "imagem": "imagens/praias/praia-da-ferrugem.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+da+Ferrugem"
+},
+{
+    "praia": "Praia do Gunga",
+    "cidade": "Roteiro, AL",
+    "descrição": "Um cenário espetacular, onde o mar se encontra com a Lagoa do Roteiro, cercado por um imenso coqueiral e falésias coloridas.",
+    "link": "https://www.google.com/search?q=Praia+do+Gunga",
+    "imagem": "imagens/praias/praia-do-gunga.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+do+Gunga"
+},
+{
+    "praia": "Praia de Castelhanos",
+    "cidade": "Ilhabela, SP",
+    "descrição": "A maior praia de Ilhabela, acessível por veículo 4x4 ou barco. Um paraíso para surfistas com um visual selvagem e em formato de coração.",
+    "link": "https://www.google.com/search?q=Praia+de+Castelhanos+Ilhabela",
+    "imagem": "imagens/praias/praia-de-castelhanos.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+de+Castelhanos+Ilhabela"
+},
+{
+    "praia": "Praia de Itamambuca",
+    "cidade": "Ubatuba, SP",
+    "descrição": "Um dos principais points de surfe do Brasil, cercada pela Mata Atlântica, onde o rio Itamambuca encontra o mar.",
+    "link": "https://www.google.com/search?q=Praia+de+Itamambuca",
+    "imagem": "imagens/praias/praia-de-itamambuca.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+de+Itamambuca"
+},
+{
+    "praia": "Praia do Forte",
+    "cidade": "Mata de São João, BA",
+    "descrição": "Famosa por suas piscinas naturais, pelo Projeto Tamar e por sua charmosa vila, com lojas, restaurantes e vida noturna.",
+    "link": "https://www.google.com/search?q=Praia+do+Forte+Bahia",
+    "imagem": "imagens/praias/praia-do-forte.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+do+Forte+Bahia"
+},
+{
+    "praia": "Praia de Genipabu",
+    "cidade": "Extremoz, RN",
+    "descrição": "Conhecida mundialmente por suas dunas móveis e pelos passeios de buggy 'com ou sem emoção' e de dromedário.",
+    "link": "https://www.google.com/search?q=Praia+de+Genipabu",
+    "imagem": "imagens/praias/praia-de-genipabu.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+de+Genipabu"
+},
+{
+    "praia": "Ilha do Campeche",
+    "cidade": "Florianópolis, SC",
+    "descrição": "Tombada como Patrimônio Arqueológico, possui águas caribenhas e areia branca, com acesso controlado para preservação.",
+    "link": "https://www.google.com/search?q=Ilha+do+Campeche",
+    "imagem": "imagens/praias/ilha-do-campeche.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Ilha+do+Campeche"
+},
+{
+    "praia": "Praia de São Miguel dos Milagres",
+    "cidade": "São Miguel dos Milagres, AL",
+    "descrição": "Coração da Rota Ecológica, é uma praia rústica e charmosa, com piscinas naturais acessíveis por jangadas.",
+    "link": "https://www.google.com/search?q=Praia+de+São+Miguel+dos+Milagres",
+    "imagem": "imagens/praias/sao-miguel-dos-milagres.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+de+São+Miguel+dos+Milagres"
+},
+{
+    "praia": "Praia de Ponta Negra",
+    "cidade": "Natal, RN",
+    "descrição": "A praia urbana mais famosa de Natal, com o Morro do Careca como cartão-postal e uma orla repleta de bares e restaurantes.",
+    "link": "https://www.google.com/search?q=Praia+de+Ponta+Negra+Natal",
+    "imagem": "imagens/praias/praia-de-ponta-negra.jpg",
+    "video_link": "https://www.youtube.com/results?search_query=Praia+de+Ponta+Negra+Natal"
+}
+]

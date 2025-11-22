@@ -1,0 +1,218 @@
+html {
+    scroll-behavior: smooth; /* Mantém o efeito de rolagem suave */
+}
+
+body {
+    background-image: url('https://images.unsplash.com/photo-1503793622324-a4b4228f4399?q=80&w=2070&auto=format&fit=crop');
+    background-image: url('imagens/imagem-fundo.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* Mantém a imagem fixa durante a rolagem */
+    background-repeat: no-repeat;
+    margin: 0; /* Remove margens padrão do corpo */
+    font-family: 'Roboto', sans-serif; /* Define uma fonte base para melhor legibilidade */
+}
+
+/* Estilos para o cabeçalho */
+.header-container {
+    background: linear-gradient(to right, #2a9d8f, #e9c46a); /* Gradiente do azul-piscina ao areia */
+    padding: 15px 40px;
+    color: white;
+    display: flex;
+    align-items: center;
+    /* Mantém o cabeçalho fixo no topo */
+    position: sticky;
+    top: 0;
+    z-index: 1000; /* Garante que fique sobre todo o conteúdo */
+}
+
+.header-container h1 {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2em;
+    font-weight: 700; /* Deixa o título mais forte */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra para dar profundidade */
+}
+
+/* Estilos para a caixa de busca */
+.search-box {
+    margin-left: auto; /* Empurra a caixa de busca para a direita */
+    display: flex;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 25px;
+}
+
+.search-box input[type="text"] {
+    border: none;
+    padding: 15px 20px;
+    font-size: 1em;
+    border-radius: 25px 0 0 25px; /* Bordas arredondadas à esquerda */
+    outline: none;
+    width: 300px;
+}
+
+.search-box button {
+    border: none;
+    padding: 15px 25px;
+    background-color: #e76f51; /* Cor de pôr do sol/coral */
+    color: white;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 0 25px 25px 0; /* Bordas arredondadas à direita */
+    transition: background-color 0.3s;
+}
+
+.search-box button:hover {
+    background-color: #f4a261; /* Cor mais clara no hover */
+}
+
+/* Posiciona o menu à esquerda (depois do título) */
+.main-nav {
+    margin-left: 50px; /* Espaço entre o título e o menu */
+}
+
+.main-nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px; /* Espaço entre os itens do menu */
+}
+
+.main-nav a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Poppins', sans-serif; /* Fonte nova, mais legível */
+    font-weight: 600; /* Peso da fonte para destaque */
+    font-size: 1.1em;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4); /* Sombra leve para destacar */
+    transition: color 0.3s;
+}
+
+.main-nav a:hover {
+    color: #f4a261;
+}
+
+/* Estilos para o contêiner dos cartões */
+.card-container {
+    display: flex; /* Ativa o layout flexível */
+    flex-wrap: wrap; /* Permite que os itens quebrem para a próxima linha */
+    justify-content: center; /* Centraliza os cartões no contêiner */
+    gap: 20px; /* Adiciona um espaço de 20px entre os cartões */
+    padding: 20px 0; /* Adiciona um preenchimento vertical */
+}
+
+/* Garante que o container principal seja transparente */
+main {
+    background-color: transparent;
+}
+
+/* Estilos para os títulos das seções (Sugestões de Praias/Cachoeiras) */
+main h2 {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5); /* Fundo preto semi-transparente para legibilidade */
+    padding: 10px 20px;
+    border-radius: 8px;
+    margin: 40px auto 20px auto;
+    max-width: 500px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Sombra no texto */
+}
+
+/* Estilos para cada cartão individual */
+.card {
+    position: relative; /* Necessário para a sobreposição */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    width: 300px; /* Define uma largura fixa para cada cartão */
+    min-height: 250px; /* Altura mínima para o card ficar bom */
+    display: flex;
+    flex-direction: column; /* Organiza o conteúdo do cartão em coluna */
+    transition: transform 0.2s; /* Adiciona uma animação suave */
+    overflow: hidden; /* Garante que tudo fique dentro das bordas arredondadas */
+    color: white; /* Cor do texto será branca para contrastar com o fundo escuro */
+    
+    /* Propriedades da imagem de fundo */
+    background-size: cover;
+    background-position: center;
+}
+
+.card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.6); /* Sobreposição escura */
+    z-index: 1; /* Fica entre o fundo e o conteúdo */
+}
+
+.card:hover {
+    transform: translateY(-5px); /* Eleva o cartão um pouco ao passar o mouse */
+}
+
+.card h2 {
+    margin-top: 0;    
+}
+
+/* Ajusta o conteúdo para ficar acima da sobreposição */
+.card-content {
+    position: relative;
+    z-index: 2;
+    padding: 16px;
+}
+
+.card p {
+    flex-grow: 1; /* Mantém o parágrafo de descrição flexível */
+}
+
+/* Contêiner para os botões dentro do card */
+.card-buttons {
+    display: flex;
+    gap: 10px; /* Espaço entre os botões */
+    margin-top: 15px;
+}
+
+/* Estilo geral para os botões do card */
+.card-button {
+    background-color: #007BFF; /* Cor Azul para o botão "Saiba mais" */
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: opacity 0.3s;
+    flex-grow: 1; /* Faz os botões ocuparem o espaço disponível igualmente */
+}
+
+.card-button:hover {
+    opacity: 0.9; /* Leve transparência ao passar o mouse */
+}
+
+/* Estilo específico para o botão de vídeo */
+.video-button {
+    background-color: #DC3545; /* Cor Vermelha para o botão "Ver Vídeo" */
+}
+
+/* --- RODAPÉ --- */
+.footer-container {
+    text-align: center;
+    padding: 2rem;
+    background-color: #2a9d8f; /* Mesmo verde do início do gradiente do cabeçalho */
+    color: white;
+}
+
+.footer-container ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-container a {
+    color: #FFD700; /* Dourado/Amarelo Sol para destacar o link */
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1em;
+}

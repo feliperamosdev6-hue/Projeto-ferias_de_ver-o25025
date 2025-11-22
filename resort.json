@@ -1,0 +1,162 @@
+[
+    {
+        "resort": "Japaratinga Lounge Resort",
+        "cidade": "Japaratinga, AL",
+        "descrição": "Eleito o melhor resort do Brasil, oferece uma experiência all-inclusive premium em um paraíso de águas cristalinas vizinho a Maragogi.",
+        "link": "https://www.google.com/search?q=Japaratinga+Lounge+Resort",
+        "imagem": "imagens/resorts/japaratinga-lounge-resort.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Japaratinga+Lounge+Resort"
+    },
+    {
+        "resort": "Salinas do Maragogi",
+        "cidade": "Maragogi, AL",
+        "descrição": "Um dos mais completos resorts all-inclusive do país, com uma estrutura gigante de lazer e gastronomia em pleno Caribe Brasileiro.",
+        "link": "https://www.google.com/search?q=Salinas+do+Maragogi",
+        "imagem": "imagens/resorts/salinas-do-maragogi.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Salinas+do+Maragogi"
+    },
+    {
+        "resort": "Nannai Resort & Spa",
+        "cidade": "Ipojuca, PE",
+        "descrição": "Luxo e exclusividade em Porto de Galinhas. Famoso por seus bangalôs com piscinas privativas sobre as águas.",
+        "link": "https://www.google.com/search?q=Nannai+Resort+%26+Spa",
+        "imagem": "imagens/resorts/nannai-resort.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Nannai+Resort+Spa"
+    },
+    {
+        "resort": "Txai Resort Itacaré",
+        "cidade": "Itacaré, BA",
+        "descrição": "Um refúgio sofisticado na Costa do Cacau, que combina luxo, conforto e práticas de sustentabilidade em meio à Mata Atlântica.",
+        "link": "https://www.google.com/search?q=Txai+Resort+Itacar%C3%A9",
+        "imagem": "imagens/resorts/txai-resort.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Txai+Resort+Itacaré"
+    },
+    {
+        "resort": "Costão do Santinho",
+        "cidade": "Florianópolis, SC",
+        "descrição": "Resort all-inclusive cercado pela natureza, com praia privativa, trilhas ecológicas, golfe e um complexo de piscinas.",
+        "link": "https://www.google.com/search?q=Cost%C3%A3o+do+Santinho",
+        "imagem": "imagens/resorts/costao-do-santinho.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Costão+do+Santinho"
+    },
+    {
+        "resort": "Tauá Resort Atibaia",
+        "cidade": "Atibaia, SP",
+        "descrição": "Diversão garantida para toda a família no interior de SP, com o primeiro parque aquático indoor da América Latina e muitas atividades.",
+        "link": "https://www.google.com/search?q=Tau%C3%A1+Resort+Atibaia",
+        "imagem": "imagens/resorts/taua-atibaia.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Tauá+Resort+Atibaia"
+    },
+    {
+        "resort": "Club Med Rio das Pedras",
+        "cidade": "Mangaratiba, RJ",
+        "descrição": "Situado entre o mar e a Mata Atlântica na Costa Verde, este resort all-inclusive é perfeito para esportes e relaxamento.",
+        "link": "https://www.google.com/search?q=Club+Med+Rio+das+Pedras",
+        "imagem": "imagens/resorts/club-med-rio-das-pedras.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Club+Med+Rio+das+Pedras"
+    },
+    {
+        "resort": "Hotel das Cataratas",
+        "cidade": "Foz do Iguaçu, PR",
+        "descrição": "O único hotel dentro do Parque Nacional do Iguaçu, oferecendo acesso exclusivo às Cataratas antes e depois do horário de visitação.",
+        "link": "https://www.google.com/search?q=Hotel+das+Cataratas+Belmond",
+        "imagem": "imagens/resorts/hotel-das-cataratas.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Hotel+das+Cataratas+Foz+do+Iguaçu"
+    },
+    {
+        "resort": "Carmel Charme Resort",
+        "cidade": "Aquiraz, CE",
+        "descrição": "Um refúgio de luxo e tranquilidade no Ceará, com piscinas deslumbrantes e um serviço impecável à beira-mar.",
+        "link": "https://www.google.com/search?q=Carmel+Charme+Resort",
+        "imagem": "imagens/resorts/carmel-charme.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Carmel+Charme+Resort"
+    },
+    {
+        "resort": "Jurema Águas Quentes",
+        "cidade": "Iretama, PR",
+        "descrição": "Um complexo de águas termais no Paraná, com 19 piscinas, spa e uma vasta área verde para uma imersão completa em bem-estar.",
+        "link": "https://www.google.com/search?q=Jurema+%C3%81guas+Quentes",
+        "imagem": "imagens/resorts/jurema-aguas-quentes.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Jurema+Águas+Quentes"
+    },
+    {
+        "resort": "Iberostar Selection Praia do Forte",
+        "cidade": "Mata de São João, BA",
+        "descrição": "Um luxuoso resort 5 estrelas all-inclusive, com complexo de piscinas, campo de golfe e spa, ideal para famílias e casais.",
+        "link": "https://www.google.com/search?q=Iberostar+Selection+Praia+do+Forte",
+        "imagem": "imagens/resorts/iberostar-praia-do-forte.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Iberostar+Praia+do+Forte"
+    },
+    {
+        "resort": "Wish Foz do Iguaçu",
+        "cidade": "Foz do Iguaçu, PR",
+        "descrição": "Resort 5 estrelas com uma proposta sofisticada, campo de golfe, piscinas e uma ampla área de lazer para adultos e crianças.",
+        "link": "https://www.google.com/search?q=Wish+Foz+do+Iguaçu",
+        "imagem": "imagens/resorts/wish-foz-do-iguacu.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Wish+Foz+do+Iguaçu"
+    },
+    {
+        "resort": "La Torre Resort All Inclusive",
+        "cidade": "Porto Seguro, BA",
+        "descrição": "Com um clube de praia exclusivo e uma estrutura completa de lazer, é uma das opções mais procuradas em Porto Seguro.",
+        "link": "https://www.google.com/search?q=La+Torre+Resort+All+Inclusive",
+        "imagem": "imagens/resorts/la-torre-resort.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=La+Torre+Resort+Porto+Seguro"
+    },
+    {
+        "resort": "Bourbon Atibaia Resort",
+        "cidade": "Atibaia, SP",
+        "descrição": "Um resort com incrível estrutura de lazer e convenções, com espaços da Turma da Mônica e uma gastronomia premiada.",
+        "link": "https://www.google.com/search?q=Bourbon+Atibaia+Resort",
+        "imagem": "imagens/resorts/bourbon-atibaia.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Bourbon+Atibaia+Resort"
+    },
+    {
+        "resort": "Tivoli Ecoresort Praia do Forte",
+        "cidade": "Mata de São João, BA",
+        "descrição": "Um destino que une sofisticação e ecologia, com piscinas de borda infinita, spa de classe mundial e atividades na natureza.",
+        "link": "https://www.google.com/search?q=Tivoli+Ecoresort+Praia+do+Forte",
+        "imagem": "imagens/resorts/tivoli-praia-do-forte.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Tivoli+Ecoresort+Praia+do+Forte"
+    },
+    {
+        "resort": "Summerville All Inclusive Resort",
+        "cidade": "Ipojuca, PE",
+        "descrição": "Localizado na praia de Muro Alto, oferece uma estrutura completa com bangalôs, piscinas e muitas atividades aquáticas.",
+        "link": "https://www.google.com/search?q=Summerville+All+Inclusive+Resort",
+        "imagem": "imagens/resorts/summerville-resort.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Summerville+Resort"
+    },
+    {
+        "resort": "Mavsa Resort",
+        "cidade": "Cesário Lange, SP",
+        "descrição": "Resort all-inclusive no interior de SP com temática de fantasia, parque aquático, mini zoológico e atividades para todas as idades.",
+        "link": "https://www.google.com/search?q=Mavsa+Resort",
+        "imagem": "imagens/resorts/mavsa-resort.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Mavsa+Resort"
+    },
+    {
+        "resort": "Vila Galé Eco Resort de Angra",
+        "cidade": "Angra dos Reis, RJ",
+        "descrição": "Integrado à Mata Atlântica, este resort all-inclusive oferece praia privativa, piscinas e um spa completo na Costa Verde.",
+        "link": "https://www.google.com/search?q=Vila+Galé+Eco+Resort+de+Angra",
+        "imagem": "imagens/resorts/vila-gale-angra.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Vila+Galé+Eco+Resort+de+Angra"
+    },
+    {
+        "resort": "Malai Manso Resort",
+        "cidade": "Chapada dos Guimarães, MT",
+        "descrição": "Às margens do Lago do Manso, é o único resort all-inclusive do Mato Grosso, com praia artificial e vista para a Chapada.",
+        "link": "https://www.google.com/search?q=Malai+Manso+Resort",
+        "imagem": "imagens/resorts/malai-manso.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Malai+Manso+Resort"
+    },
+    {
+        "resort": "Pratagy Beach All Inclusive Resort",
+        "cidade": "Maceió, AL",
+        "descrição": "Localizado em uma área de proteção ambiental em Maceió, com piscinas naturais à porta e uma estrutura de lazer completa.",
+        "link": "https://www.google.com/search?q=Pratagy+Beach+All+Inclusive+Resort",
+        "imagem": "imagens/resorts/pratagy-beach-resort.jpg",
+        "video_link": "https://www.youtube.com/results?search_query=Pratagy+Beach+Resort"
+    }
+]
