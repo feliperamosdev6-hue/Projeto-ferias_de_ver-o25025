@@ -216,3 +216,58 @@ main h2 {
     font-weight: bold;
     font-size: 1.1em;
 }
+
+/* --- MEDIA QUERIES PARA RESPONSIVIDADE --- */
+
+/* Para Tablets (telas até 768px de largura) */
+@media (max-width: 768px) {
+    .header-container {
+        flex-direction: column; /* Empilha os itens do cabeçalho */
+        align-items: center; /* Centraliza os itens empilhados */
+        gap: 15px; /* Adiciona espaço entre os itens */
+        padding: 20px;
+    }
+
+    .main-nav {
+        margin-left: 0; /* Remove a margem quando empilhado */
+        width: 100%;
+    }
+
+    .main-nav ul {
+        justify-content: center; /* Centraliza os links de navegação */
+        flex-wrap: wrap; /* Permite que os links quebrem a linha se necessário */
+    }
+
+    .search-box {
+        margin-left: 0; /* Remove a margem quando empilhado */
+        width: 90%; /* Faz a busca ocupar quase toda a largura */
+    }
+
+    .search-box input[type="text"] {
+        width: 100%; /* O campo de input ocupa todo o espaço disponível */
+    }
+}
+
+/* Para Celulares (telas até 480px de largura) */
+@media (max-width: 480px) {
+    .header-container h1 {
+        font-size: 1.5em; /* Diminui o tamanho do título principal */
+        text-align: center;
+    }
+
+    .main-nav ul {
+        flex-direction: column; /* Empilha os links de navegação verticalmente */
+        align-items: center; /* Centraliza os links */
+        gap: 10px;
+    }
+
+    .card {
+        width: 90%; /* O card ocupa 90% da largura da tela */
+        min-height: auto; /* Altura se ajusta ao conteúdo */
+    }
+
+    main h2 {
+        width: 90%;
+        font-size: 1.2em;
+    }
+}
