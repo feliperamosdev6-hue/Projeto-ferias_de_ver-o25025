@@ -4,7 +4,7 @@ Um guia interativo para encontrar os melhores destinos de verão no Brasil! Este
 
 ## 🚀 Demo Ao Vivo
 
-**[Acesse a demonstração ao vivo aqui!]([https://SEU-USUARIO.github.io/SEU-REPOSITORIO/](https://feliperamosdev6-hue.github.io/Projeto-ferias_de_ver-o25025/))**
+**[Acesse a demonstração ao vivo aqui!](https://github.com/feliperamosdev6-hue/Projeto-ferias_de_ver-o25025/deployments/github-pages))**
 
 
 ---
